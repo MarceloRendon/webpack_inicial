@@ -25,3 +25,9 @@ Para levantar el servidor:
 ```
 npm start
 ````
+
+para su despliegue en la página de github pages
+se cambió el nombre de la carpeta dist que se genera con npm run build, a docs, porque así permite que github lea los archivos para que se pueda visualizar en la github pages 
+
+
+recordar eliminar el git para crearlo en un nuevo repositorio
